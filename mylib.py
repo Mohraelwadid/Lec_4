@@ -1,1 +1,2 @@
-print("this is comment")
+def my_fun():
+    print("this is comment")
